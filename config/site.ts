@@ -3,7 +3,7 @@ export type SiteConfig = typeof siteConfig;
 export const siteConfig = {
   name: 'Yasmina El Alaoui Ismaili | Architect',
   description:
-    "Architect based in Tangier, currently working for AA' - Agence architecture as a collaborating architect",
+    "Architect based in Tangier, currently working for YDA as an architect and project manager",
   mainNav: [
     {
       title: 'Projects',
